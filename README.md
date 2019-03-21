@@ -1,7 +1,7 @@
 # autohegarty
 Buff your stats on HegartyMaths.
 
-*autohegarty* uses [Selenium Webdriver](https://www.seleniumhq.org/projects/webdriver/) to complete the quiz "Simple addition & its meaning" repeatedly to buff your correct questions answered stats.
+*autohegarty* uses [Selenium Webdriver](https://www.seleniumhq.org/projects/webdriver/) to complete the quiz "Simple addition & its meaning" repeatedly to buff your correct questions answered stat.
 
 ## How to use
 1. Install Selenium Webdriver: `pip install selenium`
