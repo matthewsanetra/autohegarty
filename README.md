@@ -11,5 +11,5 @@ Buff your stats on HegartyMaths.
 1. Run it: `python3 autohegarty.py`
 
 ## Disclaimer
-*I am not responsible for any usage and can not be held liable, including for the release of this<br>
+*I am not responsible for any usage and can not be held liable, including for the release of this.<br>
 Further information in my [license](LICENSE)*
